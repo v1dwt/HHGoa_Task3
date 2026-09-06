@@ -1,0 +1,13 @@
+venv/
+.env
+dataset/
+
+__pycache__/
+*.pyc
+
+candidate_*.jpg
+candidate_social.jpg
+
+lens_response.json
+exact_lens_response.json
+instagram_post.html
